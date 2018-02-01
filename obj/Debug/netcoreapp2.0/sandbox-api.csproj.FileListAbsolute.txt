@@ -1,0 +1,10 @@
+D:\Projects\Git\sandbox-api\bin\Debug\netcoreapp2.0\sandbox-api.deps.json
+D:\Projects\Git\sandbox-api\bin\Debug\netcoreapp2.0\sandbox-api.runtimeconfig.json
+D:\Projects\Git\sandbox-api\bin\Debug\netcoreapp2.0\sandbox-api.runtimeconfig.dev.json
+D:\Projects\Git\sandbox-api\bin\Debug\netcoreapp2.0\sandbox-api.dll
+D:\Projects\Git\sandbox-api\bin\Debug\netcoreapp2.0\sandbox-api.pdb
+D:\Projects\Git\sandbox-api\obj\Debug\netcoreapp2.0\sandbox-api.csproj.CoreCompileInputs.cache
+D:\Projects\Git\sandbox-api\obj\Debug\netcoreapp2.0\sandbox-api.AssemblyInfoInputs.cache
+D:\Projects\Git\sandbox-api\obj\Debug\netcoreapp2.0\sandbox-api.AssemblyInfo.cs
+D:\Projects\Git\sandbox-api\obj\Debug\netcoreapp2.0\sandbox-api.dll
+D:\Projects\Git\sandbox-api\obj\Debug\netcoreapp2.0\sandbox-api.pdb
