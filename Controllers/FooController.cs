@@ -12,7 +12,7 @@ namespace sandbox_api.Controllers
         [HttpGet]
         public string Get()
         {
-            return "0.0.4";
+            return "0.0.5";
         }
     }
 }
